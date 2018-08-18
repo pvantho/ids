@@ -1,4 +1,4 @@
-external interface UserModel {
+export interface UserModel {
   Name: string;
 }
 
